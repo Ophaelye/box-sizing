@@ -1,2 +1,3 @@
-# box-sizing
-# box-sizing
+/* attribut pour tout {
+  box-sizing
+}
